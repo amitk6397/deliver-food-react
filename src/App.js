@@ -19,7 +19,7 @@ function App() {
     <div className="app">
       <Navbar setShowLogin={setShowLogin}/>
       <Routes>
-        <Route exact path="/deliver-food-react" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="/cart" element={<Cart />} />
         <Route path="/order" element={<PlaceOrder />} />
       </Routes>
