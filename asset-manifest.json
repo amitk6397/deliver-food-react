@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deliver-food-react/static/css/main.6cf72672.css",
-    "main.js": "/deliver-food-react/static/js/main.36b3c95a.js",
+    "main.js": "/deliver-food-react/static/js/main.ec350c43.js",
     "static/js/453.b448c121.chunk.js": "/deliver-food-react/static/js/453.b448c121.chunk.js",
     "static/media/header_img.png": "/deliver-food-react/static/media/header_img.87c84a24f79531681564.png",
     "static/media/food_4.png": "/deliver-food-react/static/media/food_4.49c25dfbf26ca41b7c88.png",
@@ -46,11 +46,11 @@
     "static/media/menu_4.png": "/deliver-food-react/static/media/menu_4.954b7fb395c46eda438f.png",
     "index.html": "/deliver-food-react/index.html",
     "main.6cf72672.css.map": "/deliver-food-react/static/css/main.6cf72672.css.map",
-    "main.36b3c95a.js.map": "/deliver-food-react/static/js/main.36b3c95a.js.map",
+    "main.ec350c43.js.map": "/deliver-food-react/static/js/main.ec350c43.js.map",
     "453.b448c121.chunk.js.map": "/deliver-food-react/static/js/453.b448c121.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cf72672.css",
-    "static/js/main.36b3c95a.js"
+    "static/js/main.ec350c43.js"
   ]
 }
