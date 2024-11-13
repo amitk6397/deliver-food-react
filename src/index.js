@@ -8,7 +8,7 @@ import StoreContextProvider from './Context/StoreContext.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/deliver-food-react">
     <StoreContextProvider>
       <App />
     </StoreContextProvider>
