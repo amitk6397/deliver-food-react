@@ -1,6 +1,6 @@
 {
   "name": "deliver-app",
-  "homepage" : "https://amitk6397.github.io/deliver-food-react"
+  "homepage" : "https://amitk6397.github.io/deliver-food-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
